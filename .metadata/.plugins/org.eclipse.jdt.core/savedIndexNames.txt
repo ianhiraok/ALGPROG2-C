@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/202419050549/Documentos/prog2/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1014742624.index
+346722614.index
